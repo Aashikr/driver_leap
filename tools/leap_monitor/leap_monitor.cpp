@@ -272,7 +272,7 @@ private:
     std::set<uint32_t> m_setLeapDevices;
 };
 
-#if 0
+#if 1
 int main(int argc, char **argv)
 {
     // Find resource path
